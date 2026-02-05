@@ -2,7 +2,7 @@
 
 
 ### Analista Programador
-Desarrollador de **Microservicios** y el uso de **patrones de diseño modular**. Mi enfoque se centra en construir aplicaciones robustas, escalables y de **alta mantenibilidad**, priorizando siempre las buenas prácticas y el código limpio.
+Desarrollador de **Microservicios** y el uso de **patrones de diseño modular**. Mi enfoque se centra en construir aplicaciones robustas, escalables y de **alta mantenibilidad**, priorizando siempre las buenas prácticas y el código limpio. Además de realizar pruebas unitarias y de integración de los elementos del software. Gran uso de documentación de diferentes sistemas API's.
 
 ---
 <p align="left">
