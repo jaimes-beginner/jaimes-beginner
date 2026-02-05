@@ -1,10 +1,7 @@
 # Jaime Hermosilla
 
-<img src="https://img.shields.io/badge/FullStack%20Developer-black?style=for-the-badge&logo=codepen&logoColor=white" />
 
-<br />
-
-### Desarrollador Backend y Frontend
+### Analista Programador
 Desarrollador de **Microservicios** y el uso de **patrones de diseño modular**. Mi enfoque se centra en construir aplicaciones robustas, escalables y de **alta mantenibilidad**, priorizando siempre las buenas prácticas y el código limpio.
 
 ---
